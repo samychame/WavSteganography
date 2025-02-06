@@ -42,5 +42,5 @@ public static void main(String[] args) {
 ```
 
 ## Author
-**Samy Chame**
+Developed by **Samy Chame**
 
